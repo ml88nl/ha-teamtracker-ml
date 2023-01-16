@@ -17,7 +17,7 @@ LEAGUE_LIST = [
 SPORT_LIST = [
     ["golf", "mdi:golf-tee"],
     ["racing", "mdi:flag-checkered"],
-    ["soccer", "mdi:soccer"],
+    ["soccer", "mdi:soccer"]
 ]
 
 # Config
